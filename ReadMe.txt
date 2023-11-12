@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Henri
+Author: Henri LLUGANY
 Twitter: @henrillugany
